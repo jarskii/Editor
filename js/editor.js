@@ -28,7 +28,6 @@
                             break;
                         case 2:
                             if (arguments[i]===null) break;
-                            console.log(arguments[3]);
                             item.addEventListener("click", arguments[i]);
 
                             break;
@@ -44,8 +43,14 @@
     Editor.prototype.Event =  {
         self: Editor,
         addImage: function() {
-            console.log();
+            console.log(this);
+        },
+        addLink: function() {
+            var markedText = window.getSelection().getRangeAt(0).cloneContents();
+
+            console.log(markedText)
         }
+
     };
 
     Editor.prototype.createControls = function() {
@@ -58,7 +63,9 @@
         wrapEl.appendChild(this.container);
 
         var panel = Contructor.div('b-editor-panel');
+
         panel.appendChild(Contructor.div('b-editor-panel_add-image', 'icon-add-image', this.Event.addImage, this));
+        panel.appendChild(Contructor.div('b-editor-panel_add-link', 'icon-add-link', this.Event.addImage, this));
 
         wrapEl.insertBefore(panel, this.container);
 

@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bc24244-ba8c-4b07-b7ed-57b943704ba3" name="Default" comment="" />
+    <list default="true" id="8bc24244-ba8c-4b07-b7ed-57b943704ba3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/editor.css" afterPath="$PROJECT_DIR$/css/editor.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/editor.js" afterPath="$PROJECT_DIR$/js/editor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="editor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1408567250683" ignored="false" />
+    <file path="/Dummy.txt" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416232532998" ignored="false" />
     <file path="/main.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1408574625429" ignored="false" />
-    <file path="/index.html" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1408569703705" ignored="false" />
-    <file path="/editor.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1408573264511" ignored="false" />
-    <file path="/editor.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1408571851881" ignored="false" />
+    <file path="/index.html" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416233160304" ignored="false" />
+    <file path="/editor.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416235865577" ignored="false" />
+    <file path="/editor.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416234079173" ignored="false" />
+    <file path="Z:/www/imhonet/application/components/gettext/data/ru/LC_MESSAGES/style.po" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416235660439" ignored="false" />
+    <file path="Z:/www/imhonet/css/lib/modules/m-online.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416235865576" ignored="false" />
+    <file path="Z:/www/imhonet/application/View/Content/User/Profile.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416235865577" ignored="false" />
+    <file path="Z:/www/imhonet/application/View/Content/Serials/ElementOnline.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416235865577" ignored="false" />
+    <file path="Z:/www/imhonet/js/modules/m-online-serials.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416235865577" ignored="false" />
+    <file path="Z:/www/imhonet/application/View/Content/Modules/m-subnavigation.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416235865577" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +39,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="editor.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="editor.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/editor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="639" selection-end="639" vertical-scroll-proportion="0.20761245">
+            <state line="67" column="82" selection-start="2015" selection-end="2015" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -40,16 +51,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="56" selection-start="266" selection-end="266" vertical-scroll-proportion="-5.0">
+            <state line="8" column="56" selection-start="253" selection-end="266" vertical-scroll-proportion="-5.230769">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="editor.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="editor.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/editor.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="19" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0">
+            <state line="10" column="0" selection-start="361" selection-end="361" vertical-scroll-proportion="0.19473082">
               <folding />
             </state>
           </provider>
@@ -78,16 +89,16 @@
         <option value="$PROJECT_DIR$/js/lib/underscore.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/editor.css" />
         <option value="$PROJECT_DIR$/js/editor.js" />
+        <option value="$PROJECT_DIR$/css/editor.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="22" />
-    <option name="width" value="1260" />
-    <option name="height" value="726" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -130,7 +141,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="editor" />
+              <option name="myItemId" value="Editor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -140,25 +151,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="editor" />
+              <option name="myItemId" value="Editor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="editor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="editor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="fonts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -170,24 +167,68 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="options.lastSelected" value="JavaScript.Libraries" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" autoUpload="true">
     <servers>
-      <server id="88a849b9-0f11-4465-b0d6-35c6b174132d">
+      <server id="01827cff-ec0c-4e85-9c64-e7645aeca088">
         <serverdata />
       </server>
-      <server id="a6c74930-385a-40de-9f5b-caf045fdfef1">
+      <server id="48dd20e7-c442-4f35-bbce-86fa241b5be7">
         <serverdata />
       </server>
-      <server id="e3c60855-52c4-4666-9816-9d018bc3c769">
+      <server id="4eddbd16-64dd-48d1-9d11-399d03f0dfc4">
+        <serverdata />
+      </server>
+      <server id="4fc8689c-96d7-4336-83de-8501150d2f0a">
+        <serverdata />
+      </server>
+      <server id="5cafc3fe-5752-467a-af03-f7d95b5dc53f">
+        <serverdata />
+      </server>
+      <server id="74c87a7d-2b32-4d39-a24f-29f0cde783a5">
+        <serverdata />
+      </server>
+      <server id="7c59ffeb-0a3c-4b6f-b355-9eab36edc55f">
+        <serverdata />
+      </server>
+      <server id="7f4c84e5-e958-4873-a2ea-2c5e9f91e9b9">
+        <serverdata />
+      </server>
+      <server id="920aab35-4936-443a-8976-923dad200f20">
+        <serverdata />
+      </server>
+      <server id="b2d618c5-6fa5-4ebd-bf93-5e707ac4a1ce">
+        <serverdata />
+      </server>
+      <server id="b42b6bac-3396-47e4-a8c8-0c9ef05d35e6">
+        <serverdata />
+      </server>
+      <server id="b4a235f9-5f37-4b50-aad1-025ad488b64d">
+        <serverdata />
+      </server>
+      <server id="c0c782c3-0d09-4d1f-b953-5c64aee7df5a">
+        <serverdata />
+      </server>
+      <server id="d7de7450-04e3-4857-91fc-184a1df93b33">
+        <serverdata />
+      </server>
+      <server id="e35ab36e-7ed0-418e-abd3-8715c0190da1">
+        <serverdata />
+      </server>
+      <server id="ee1f6875-b6e7-4e30-addd-6d5de09c4b09">
+        <serverdata />
+      </server>
+      <server id="f6f9478c-14a3-4d24-a3d0-b82bc3067884">
         <serverdata />
       </server>
     </servers>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Админ\PhpstormProjects\Editor\fonts" />
       <recent name="$PROJECT_DIR$/js/lib" />
     </key>
   </component>
@@ -204,27 +245,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1260" height="726" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2524013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -288,9 +329,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/editor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="56" selection-start="266" selection-end="266" vertical-scroll-proportion="-5.0">
+        <state line="8" column="56" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -302,9 +350,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="56" selection-start="253" selection-end="266" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/editor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="639" selection-end="639" vertical-scroll-proportion="0.20761245">
+        <state line="67" column="82" selection-start="2015" selection-end="2015" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/editor.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="361" selection-end="361" vertical-scroll-proportion="0.19473082">
           <folding />
         </state>
       </provider>
