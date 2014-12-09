@@ -57,3 +57,12 @@ html, body {
     width: 100%;
     margin-top: 140px;
 }
+
+.b-slide {
+    width: 1024px;
+    height: 768px;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0px 0px 6px -2px #666;
+}

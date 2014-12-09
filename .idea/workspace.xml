@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bc24244-ba8c-4b07-b7ed-57b943704ba3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/story-tail-editor.css" afterPath="$PROJECT_DIR$/css/story-tail-editor.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/story-tail-editor.js" afterPath="$PROJECT_DIR$/js/story-tail-editor.js" />
     </list>
     <ignored path="editor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418050479063" ignored="false" />
+    <file path="/Dummy.txt" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418131658363" ignored="false" />
     <file path="/main.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1408574625429" ignored="false" />
     <file path="/index.html" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416233160304" ignored="false" />
     <file path="/editor.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416235865577" ignored="false" />
@@ -30,7 +31,7 @@
     <file path="Z:/www/imhonet/application/View/Content/Modules/m-report_error.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252844" ignored="false" />
     <file path="Z:/www/imhonet/css/lib/modules/m-username.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417785317055" ignored="false" />
     <file path="Z:/www/imhonet/application/View/Content/Modules/m-gallery.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252844" ignored="false" />
-    <file path="Z:/www/imhonet/js/modules/m-adriver-init.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252844" ignored="false" />
+    <file path="Z:/www/imhonet/js/modules/m-adriver-init.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418131894321" ignored="false" />
     <file path="Z:/www/imhonet/css/lib/modules/m-tiles.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418025528040" ignored="false" />
     <file path="Z:/www/imhonet/application/config/router/tv.router.xml" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417774169071" ignored="false" />
     <file path="Z:/www/imhonet/js/views/m-advancedcontentfilter.reset.view.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252844" ignored="false" />
@@ -59,8 +60,12 @@
     <file path="Z:/www/imhonet/application/View/Content/Modules/tiles/m-tiles-opinion.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418025505414" ignored="false" />
     <file path="/m-tiles-opinion.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418028918396" ignored="false" />
     <file path="/story-tail-editor.html" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418054445638" ignored="false" />
-    <file path="/story-tail-editor.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418054826090" ignored="false" />
-    <file path="/story-tail-editor.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418053496005" ignored="false" />
+    <file path="/story-tail-editor.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418141818961" ignored="false" />
+    <file path="/story-tail-editor.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418140035365" ignored="false" />
+    <file path="Z:/www/imhonet/application/View/Layout/ElementLinks.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418134285062" ignored="false" />
+    <file path="/ElementLinks.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418134269686" ignored="false" />
+    <file path="Z:/www/imhonet/css/lib/modules/m-download.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418137932412" ignored="false" />
+    <file path="/m-download.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418137932412" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +88,7 @@
       <file leaf-file-name="editor.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/editor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="32" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
+            <state line="18" column="31" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -92,7 +97,7 @@
       <file leaf-file-name="story-tail-editor.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/story-tail-editor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="26" selection-start="572" selection-end="581" vertical-scroll-proportion="-10.461538">
+            <state line="12" column="55" selection-start="340" selection-end="352" vertical-scroll-proportion="-7.8461537">
               <folding />
             </state>
           </provider>
@@ -101,7 +106,7 @@
       <file leaf-file-name="story-tail-editor.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/story-tail-editor.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="0" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0">
+            <state line="59" column="0" selection-start="1080" selection-end="1080" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -110,7 +115,7 @@
       <file leaf-file-name="story-tail-editor.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/story-tail-editor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="37" selection-start="275" selection-end="275" vertical-scroll-proportion="0.23367697">
+            <state line="68" column="39" selection-start="1879" selection-end="1879" vertical-scroll-proportion="0.6231386">
               <folding />
             </state>
           </provider>
@@ -143,8 +148,8 @@
         <option value="$PROJECT_DIR$/css/editor.css" />
         <option value="$PROJECT_DIR$/Global.twig" />
         <option value="$PROJECT_DIR$/m-tiles.twig" />
-        <option value="$PROJECT_DIR$/css/story-tail-editor.css" />
         <option value="$PROJECT_DIR$/story-tail-editor.html" />
+        <option value="$PROJECT_DIR$/css/story-tail-editor.css" />
         <option value="$PROJECT_DIR$/js/story-tail-editor.js" />
       </list>
     </option>
@@ -238,8 +243,8 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="options.lastSelected" value="JavaScript.Libraries" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig" autoUpload="true">
     <servers>
@@ -323,7 +328,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13607258" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13767342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -399,6 +404,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/story-tail-editor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="37" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/editor.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="67" column="82" selection-start="2015" selection-end="2015" vertical-scroll-proportion="0.0">
@@ -478,28 +490,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/editor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="32" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
+        <state line="18" column="31" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/story-tail-editor.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0">
+        <state line="59" column="0" selection-start="1080" selection-end="1080" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/story-tail-editor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="26" selection-start="572" selection-end="581" vertical-scroll-proportion="-10.461538">
+        <state line="12" column="55" selection-start="340" selection-end="352" vertical-scroll-proportion="-7.8461537">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/story-tail-editor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="37" selection-start="275" selection-end="275" vertical-scroll-proportion="0.23367697">
+        <state line="68" column="39" selection-start="1879" selection-end="1879" vertical-scroll-proportion="0.6231386">
           <folding />
         </state>
       </provider>
