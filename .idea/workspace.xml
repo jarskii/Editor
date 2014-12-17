@@ -3,48 +3,50 @@
   <component name="ChangeListManager">
     <list default="true" id="8bc24244-ba8c-4b07-b7ed-57b943704ba3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/story-tail-editor.css" afterPath="$PROJECT_DIR$/css/story-tail-editor.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story-tail-editor.html" afterPath="$PROJECT_DIR$/story-tail-editor.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/story-tail-editor.js" afterPath="$PROJECT_DIR$/js/story-tail-editor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="editor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418131658363" ignored="false" />
+    <file path="/Dummy.txt" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418827037409" ignored="false" />
     <file path="/main.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1408574625429" ignored="false" />
     <file path="/index.html" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416233160304" ignored="false" />
     <file path="/editor.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416235865577" ignored="false" />
     <file path="/editor.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416234079173" ignored="false" />
     <file path="Z:/www/imhonet/application/components/gettext/data/ru/LC_MESSAGES/style.po" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416317879218" ignored="false" />
     <file path="Z:/www/imhonet/css/lib/modules/m-online.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416316494563" ignored="false" />
-    <file path="Z:/www/imhonet/application/View/Content/User/Profile.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416316494563" ignored="false" />
-    <file path="Z:/www/imhonet/application/View/Content/Serials/ElementOnline.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416316494563" ignored="false" />
+    <file path="Z:/www/imhonet/application/View/Content/User/Profile.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418830399730" ignored="false" />
+    <file path="Z:/www/imhonet/application/View/Content/Serials/ElementOnline.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418221283465" ignored="false" />
     <file path="Z:/www/imhonet/js/modules/m-online-serials.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416316494563" ignored="false" />
     <file path="Z:/www/imhonet/application/View/Content/Modules/m-subnavigation.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416316494563" ignored="false" />
-    <file path="Z:/www/imhonet/application/View/Layout/ElementOnline.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416317879218" ignored="false" />
+    <file path="Z:/www/imhonet/application/View/Layout/ElementOnline.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418221489028" ignored="false" />
     <file path="/ElementOnline.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416298899697" ignored="false" />
     <file path="$PROJECT_DIR$/../HipstaLocal/hipsta/public/js/lib/JSXTransformer.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416312714285" ignored="false" />
     <file path="Z:/www/imhonet/css/lib/modules/m-mainnavigation.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252844" ignored="false" />
     <file path="Z:/www/imhonet/application/View/Content/Modules/m-user-rates.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416317879218" ignored="false" />
     <file path="/m-mainnavigation.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1416316781193" ignored="false" />
     <file path="Z:/www/imhonet/application/View/Layout/Global.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417784297655" ignored="false" />
-    <file path="Z:/www/imhonet/css/lib/modules/m-advertising.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417786177725" ignored="false" />
+    <file path="Z:/www/imhonet/css/lib/modules/m-advertising.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418217846667" ignored="false" />
     <file path="Z:/www/imhonet/application/View/Layout/ElementGallery.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252844" ignored="false" />
     <file path="Z:/www/imhonet/application/View/Content/Search.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252844" ignored="false" />
     <file path="Z:/www/imhonet/application/View/Content/Modules/m-report_error.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252844" ignored="false" />
     <file path="Z:/www/imhonet/css/lib/modules/m-username.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417785317055" ignored="false" />
     <file path="Z:/www/imhonet/application/View/Content/Modules/m-gallery.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252844" ignored="false" />
     <file path="Z:/www/imhonet/js/modules/m-adriver-init.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418131894321" ignored="false" />
-    <file path="Z:/www/imhonet/css/lib/modules/m-tiles.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418025528040" ignored="false" />
+    <file path="Z:/www/imhonet/css/lib/modules/m-tiles.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418724540605" ignored="false" />
     <file path="Z:/www/imhonet/application/config/router/tv.router.xml" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417774169071" ignored="false" />
     <file path="Z:/www/imhonet/js/views/m-advancedcontentfilter.reset.view.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252844" ignored="false" />
     <file path="Z:/www/imhonet/js/modules/m-tiles3.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417786412438" ignored="false" />
     <file path="Z:/www/imhonet/application/View/Content/Modules/tiles/m-tiles.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252844" ignored="false" />
-    <file path="Z:/www/imhonet/application/View/Content/Modules/tiles/m-tiles-poster.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252844" ignored="false" />
+    <file path="Z:/www/imhonet/application/View/Content/Modules/tiles/m-tiles-poster.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418723726069" ignored="false" />
     <file path="Z:/www/imhonet/application/View/Content/Modules/m-advertising.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252844" ignored="false" />
     <file path="/Global.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417784211348" ignored="false" />
     <file path="Z:/www/imhonet/application/config/config.local.php" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417780143630" ignored="false" />
     <file path="/config.local.php" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417780143630" ignored="false" />
     <file path="Z:/www/imhonet/application/View/Content/Home.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417784397150" ignored="false" />
     <file path="/Home.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417784355139" ignored="false" />
-    <file path="/m-tiles.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418025386077" ignored="false" />
+    <file path="/m-tiles.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418724539802" ignored="false" />
     <file path="Z:/www/imhonet/application/View/Content/Modules/m-tiles-on-main.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417782890614" ignored="false" />
     <file path="Z:/www/imhonet/css/lib/modules/m-episodedescription.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252843" ignored="false" />
     <file path="Z:/www/imhonet/application/config/config.dev.php" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417783252843" ignored="false" />
@@ -59,13 +61,36 @@
     <file path="/m-advertising.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1417786161026" ignored="false" />
     <file path="Z:/www/imhonet/application/View/Content/Modules/tiles/m-tiles-opinion.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418025505414" ignored="false" />
     <file path="/m-tiles-opinion.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418028918396" ignored="false" />
-    <file path="/story-tail-editor.html" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418054445638" ignored="false" />
-    <file path="/story-tail-editor.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418141818961" ignored="false" />
-    <file path="/story-tail-editor.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418140035365" ignored="false" />
-    <file path="Z:/www/imhonet/application/View/Layout/ElementLinks.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418134285062" ignored="false" />
-    <file path="/ElementLinks.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418134269686" ignored="false" />
-    <file path="Z:/www/imhonet/css/lib/modules/m-download.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418137932412" ignored="false" />
+    <file path="/story-tail-editor.html" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418658354700" ignored="false" />
+    <file path="/story-tail-editor.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418833243474" ignored="false" />
+    <file path="/story-tail-editor.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418833007768" ignored="false" />
+    <file path="Z:/www/imhonet/application/View/Layout/ElementLinks.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418221489028" ignored="false" />
+    <file path="/ElementLinks.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418218050127" ignored="false" />
+    <file path="Z:/www/imhonet/css/lib/modules/m-download.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418221489028" ignored="false" />
     <file path="/m-download.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418137932412" ignored="false" />
+    <file path="Z:/www/imhonet/js/modules/m-lazyload.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418222466891" ignored="false" />
+    <file path="/m-lazyload.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418222303934" ignored="false" />
+    <file path="Z:/www/imhonet/css/lib/modules/m-help-block.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418218348048" ignored="false" />
+    <file path="/m-help-block.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418217846667" ignored="false" />
+    <file path="Z:/www/imhonet/application/View/Content/Modules/m-help-block.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418217923142" ignored="false" />
+    <file path="Z:/www/imhonet/css/main-element.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418221489028" ignored="false" />
+    <file path="/main-element.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418218050127" ignored="false" />
+    <file path="Z:/www/imhonet/js/modules/m-projectfaq.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418221489028" ignored="false" />
+    <file path="/m-projectfaq.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418219566780" ignored="false" />
+    <file path="Z:/www/imhonet/js/app.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418222380464" ignored="false" />
+    <file path="/app.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418222371299" ignored="false" />
+    <file path="/a.dummy" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418647400325" ignored="false" />
+    <file path="/m-tiles-poster.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418723726070" ignored="false" />
+    <file path="Z:/www/imhonet/application/View/Content/Modules/m-starsrate.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418638752520" ignored="false" />
+    <file path="/m-starsrate.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418638752520" ignored="false" />
+    <file path="Z:/www/imhonet/css/lib/modules/m-rating.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418656784787" ignored="false" />
+    <file path="/m-rating.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418645636212" ignored="false" />
+    <file path="Z:/www/imhonet/js/modules/m-el_starsrate.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418647432147" ignored="false" />
+    <file path="Z:/www/imhonet/js/lib/imhonet-fx-rate.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418646123497" ignored="false" />
+    <file path="/imhonet-fx-rate.js" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418646101509" ignored="false" />
+    <file path="/Profile.twig" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418830291534" ignored="false" />
+    <file path="Z:/www/imhonet/css/main-profile.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418830390763" ignored="false" />
+    <file path="$PROJECT_DIR$/../HipstaLocal/hipsta/public/css/main.css" changelist="8bc24244-ba8c-4b07-b7ed-57b943704ba3" time="1418831253600" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +113,7 @@
       <file leaf-file-name="editor.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/editor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="31" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0">
+            <state line="27" column="34" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -97,7 +122,7 @@
       <file leaf-file-name="story-tail-editor.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/story-tail-editor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="55" selection-start="340" selection-end="352" vertical-scroll-proportion="-7.8461537">
+            <state line="17" column="59" selection-start="750" selection-end="750" vertical-scroll-proportion="-11.115385">
               <folding />
             </state>
           </provider>
@@ -106,7 +131,7 @@
       <file leaf-file-name="story-tail-editor.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/story-tail-editor.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="0" selection-start="1080" selection-end="1080" vertical-scroll-proportion="0.0">
+            <state line="52" column="20" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -115,7 +140,7 @@
       <file leaf-file-name="story-tail-editor.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/story-tail-editor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="39" selection-start="1879" selection-end="1879" vertical-scroll-proportion="0.6231386">
+            <state line="68" column="29" selection-start="2020" selection-end="2020" vertical-scroll-proportion="0.23640662">
               <folding />
             </state>
           </provider>
@@ -242,7 +267,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="options.lastSelected" value="JavaScript.Libraries" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HipstaLocal" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
@@ -328,7 +353,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13767342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14087513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -427,9 +452,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/editor.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="24" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="15" column="24" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/editor.js">
@@ -448,9 +471,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/editor.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="24" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="15" column="24" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/editor.js">
@@ -469,16 +490,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/editor.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="19" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="33" column="19" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/editor.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="16" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="27" column="16" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -488,30 +505,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/editor.js">
+    <entry file="file://$PROJECT_DIR$/story-tail-editor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="31" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0">
+        <state line="17" column="59" selection-start="750" selection-end="750" vertical-scroll-proportion="-11.115385">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/story-tail-editor.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="0" selection-start="1080" selection-end="1080" vertical-scroll-proportion="0.0">
+        <state line="52" column="20" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/story-tail-editor.html">
+    <entry file="file://$PROJECT_DIR$/js/editor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="55" selection-start="340" selection-end="352" vertical-scroll-proportion="-7.8461537">
+        <state line="27" column="34" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/story-tail-editor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="39" selection-start="1879" selection-end="1879" vertical-scroll-proportion="0.6231386">
+        <state line="68" column="29" selection-start="2020" selection-end="2020" vertical-scroll-proportion="0.23640662">
           <folding />
         </state>
       </provider>

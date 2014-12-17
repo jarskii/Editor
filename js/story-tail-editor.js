@@ -3,6 +3,7 @@
         this.controls = {};
         this.elements = {};
         this.events = {};
+        this.state = {};
 
         this.initElements();
         this.initControlls();
@@ -17,6 +18,7 @@
     StoryEditor.prototype.initControlls = function() {
         this.events.panel = {};
         this.controls.addSlide = document.getElementById('panelAddSlide');
+        this.controls.createBlockIntoSlide = document.getElementById('createBlockIntoSlide');
         this.controls.textAlignCenter = document.getElementById('panelTextAlignCenter');
     };
 
@@ -32,6 +34,15 @@
                 slideList.appendChild(contructor.Slide().el);
             },
             textAlignCenter: function(e) {
+
+            },
+            createBlockIntoSlide: function(e) {
+
+                var contentSlide = self.state.currentSlide.childNodes;
+
+                for (var i = 0, max = contentSlide.length; i < max; i++) {
+                    console.log(contentSlide[i]);
+                }
 
             }
         };
@@ -64,10 +75,16 @@
     Contructor.Slide.prototype.Events = function(){
         var self = this;
         return {
-            createTextWrap: function() {
-                self.collection.push({
-                    el: this.firstChild
-                })
+            initCurrentSlide: function() {
+                storyEditor.state.currentSlide = self.el;
+
+                var slideListItems = document.getElementById('slideList').children;
+
+                for (var i= 0, max = slideListItems.length; i<max; i++ ) {
+                    slideListItems[i].classList.remove('current');
+                }
+
+                self.el.classList.add('current');
             }
         }
     }
@@ -75,7 +92,7 @@
     Contructor.Slide.prototype.initEvents = function() {
         var events = this.Events();
 
-        this.el.addEventListener('focusout', events.createTextWrap)
+        this.el.addEventListener('focusin', events.initCurrentSlide)
     };
 
     var ContructorFactory = function() {
@@ -85,6 +102,7 @@
     ContructorFactory.prototype = {
         constructor: ContructorFactory,
         Slide: function() {
+            console.log(this);
             return new Contructor.Slide({
                 name: "slide",
                 id: this.count++
@@ -92,9 +110,5 @@
         }
     }
 
-
-
-
-
-    new StoryEditor();
+    var storyEditor =  new StoryEditor();
 }(window)
