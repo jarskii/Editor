@@ -59,6 +59,7 @@ html, body {
 }
 
 .b-slide {
+    position: relative;
     width: 1024px;
     height: 768px;
     margin: 0 auto 20px;
@@ -74,4 +75,22 @@ html, body {
 
 .b-icon-create-block {
 
+}
+
+.b-slide-helper .inner-block {
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 10px;
+    left: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px dotted #5695bc;
+    cursor: pointer;
+}
+
+.b-slide-helper {
+    position: relative;
+    top: -789px;
+    left: 20px;
 }

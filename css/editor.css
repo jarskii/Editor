@@ -1,15 +1,17 @@
 @font-face {
     font-family: 'icon-font';
-    src:url('/fonts/icons/icons.eot');
-    src:url('/fonts/icons/icons.eot?#iefix') format('embedded-opentype'),
-    url('/fonts/icons/icons.svg') format('svg'),
-    url('/fonts/icons/icons.woff') format('woff'),
-    url('/fonts/icons/icons.ttf') format('truetype');
+    src:url('../fonts/icons.eot');
+    src:url('../fonts/icons.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/icons.svg') format('svg'),
+    url('../fonts/icons.woff') format('woff'),
+    url('../fonts/icons.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 .icon {
+    display: block;
+    margin: 5px;
     font-family: 'icon-font';
     speak: none;
     font-style: normal;
@@ -20,7 +22,13 @@
 	-webkit-font-smoothing: subpixel-antialiased;*/
 }
 .icon-feather:before {
-    content: "\e006";
+    content: "\e600";
+}
+
+.icon-image:before {
+    content: "\e601";
+    line-height: 20px;
+    font-size: 14px;
 }
 
 .b-editor {
@@ -33,7 +41,8 @@
     outline: none;
     height: 600px;
     resize: none;
-    padding-top: 80px;
+    padding: 100px 20px 0 20px;
+    border: 1px solid #ccc;
 }
 
 .b-editor-panel {
@@ -45,17 +54,29 @@
     background: #999;
     opacity: 0.8;
     border-radius: 3px;
-    padding: 20px;
+    padding: 10px;
     box-sizing: border-box;
 }
 
-.b-editor-panel_add-image {
-    width: 40px;
-    height: 40px;
-    border-radius: 5px;
+input[type="file"]::-webkit-file-upload-button {
+    visibility: hidden;
+}
+
+.b-editor-panel .icon {
+    color: #fff;
+}
+
+.b-editor-panel_add-image,
+.b-editor-panel_add-link {
+    width: 25px;
+    height: 25px;
     background: #555;
-    box-shadow: 2px 2px 0 2px #333;
+    box-shadow: 1px 1px 0 0px #333;
     cursor: pointer;
+    float: left;
+    margin: 0 10px 5px 0;
+    padding: 0 5px;
+    box-sizing: border-box;
 }
 
 .b-editor-area {
